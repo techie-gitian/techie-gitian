@@ -1,7 +1,4 @@
-<img
-  src=""
-  alt="Bannner-Img"
-/>
+
 <h1 align="center">Hi 👋, I'm techie-gitian</h1>
 <h3 align="center">A passionate full stack web developer from Pakistan</h3>
 <img align="right" width="400px"
