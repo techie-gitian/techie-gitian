@@ -1,5 +1,5 @@
 <img
-  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pramukhdigital.com%2Fweb-development%2F&psig=AOvVaw19__4u3-fo0cPRIPKzrbUT&ust=1710153717265000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLj51pnB6YQDFQAAAAAdAAAAABAR"
+  src=""
   alt="Bannner-Img"
 />
 <h1 align="center">Hi 👋, I'm techie-gitian</h1>
