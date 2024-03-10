@@ -27,7 +27,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1YbeIetk4RYYnQcPyxGbjhVeRtjxH1ke5/view?usp=drivesdk](https://drive.google.com/file/d/1YbeIetk4RYYnQcPyxGbjhVeRtjxH1ke5/view?usp=drivesdk)
 
-- ⚡ Fun fact **I like children's**
+- ⚡ Fun fact **Learning Enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
