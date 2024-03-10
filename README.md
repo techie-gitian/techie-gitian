@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm techie-gitian</h1>
+<h1 align="center">Hi 👋, I'm Aashan Waqar</h1>
 <h3 align="center">A passionate full stack web developer from Pakistan</h3>
 <img align="right" width="400px"
   src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
