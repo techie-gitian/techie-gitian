@@ -1,5 +1,5 @@
 <img
-  src="https://www.noritechnology.com/front/img/nori/gif/web-development-Banners.gif"
+  src="[https://www.noritechnology.com/front/img/nori/gif/web-development-Banners.gif](https://b1463816.smushcdn.com/1463816/wp-content/uploads/2015/04/banner-web-development.png?lossy=2&strip=1&webp=1)"
   alt="Bannner-Img"
 />
 <h1 align="center">Hi 👋, I'm techie-gitian</h1>
