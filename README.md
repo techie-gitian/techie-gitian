@@ -22,7 +22,6 @@
 
 - 📫 How to reach me **techieecstatic@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YbeIetk4RYYnQcPyxGbjhVeRtjxH1ke5/view?usp=drivesdk](https://drive.google.com/file/d/1YbeIetk4RYYnQcPyxGbjhVeRtjxH1ke5/view?usp=drivesdk)
 
 - ⚡ Fun fact **Learning Enthusiast**
 
