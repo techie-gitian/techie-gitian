@@ -40,4 +40,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techie-gitian&show_icons=true&locale=en" alt="techie-gitian" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techie-gitian&" alt="techie-gitian" /></p>
+
