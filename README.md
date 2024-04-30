@@ -18,7 +18,7 @@
 
 - 🤝 I’m looking for help with **Laravell**
 
-- 💬 Ask me about **HTML5 | CSS3 | JavaScript | Bootstrap | Java | C | C++ | PHP | DSA**
+- 💬 Ask me about **HTML5 | CSS3 | JavaScript | Bootstrap | Java | C | C++ | PHP | DSA | CN**
 
 - 📫 How to reach me **techieecstatic@gmail.com**
 
