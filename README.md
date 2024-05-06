@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on **upwork**
 - 🤝 I’m looking for help with **laravell**
 - 🌱 I’m currently learning **Python**
-- 💬 Ask me about **HTML5 | CSS3 | JavaScript | Bootstrap | Java | C | C++ | PHP | DSA | CN**
+- 💬 Ask me about **HTML5 | CSS3 | JavaScript | Bootstrap | Java | C | C++ | PHP | MYSQL | DSA | CN**
 - 📫 How to reach me **techieecstatic@gmail.com**
 - ⚡ Fun fact **I am learning enthusiast.**
 
